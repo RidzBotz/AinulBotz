@@ -1,19 +1,19 @@
 //=============『 Utama 』================== //
-global.owner = ['6285781468932','6285754202785'] 
-global.mods = [] 
-global.prems = [] 
+global.owner = ['6283848609106'] 
+global.mods = [6283848609106] 
+global.prems = [6283848609106] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Rellz'
-global.numberowner = '6285781468932','6285754202785'
+global.nameowner = 'Ridzz 0fc'
+global.numberowner = '6283848609106'
 global.instagram = 'https://instagram.com/rell.2007'
 global.github = 'https://github.com/Farel-Md229'
-global.dana = '082122013831'
-global.pulsa = '082122013831'
-global.gopay = '082122013831'
+global.dana = '083848609106'
+global.pulsa = '083135400342'
+global.gopay = '083848609106'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Sakura Bot'
+global.namebot = 'Ridzz Botz'
 global.gc = 'https://chat.whatsapp.com/ISy3Hdt3tur2Q1Ik1IZ1s7'
 global.web = 'https://chat.whatsapp.com/ISy3Hdt3tur2Q1Ik1IZ1s7' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 15.000\n2 Minggu 10.000\n1 Minggu 5.000'
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/Sakura-Bot-06-28' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/Sakura-Bot-06-28' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Sakura Bot'
+global.wm = 'Ridzz Bot'
 global.watermark = wm
-global.wm2 = '                     「 Sakura Bot」'
-global.wm3 = '⫹⫺ Sakura Bot'
+global.wm2 = '                     「 Ridzz Botz」'
+global.wm3 = '⫹⫺ Ridzz Botz'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/Sakura-Bot-06-28'
@@ -36,8 +36,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = '© Rellz'
-global.author = 'Di Buat Oleh Sakura Bot'
+global.packname = '© Ridzz 0fc'
+global.author = 'Di Buat Oleh Ridzz Botz'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
